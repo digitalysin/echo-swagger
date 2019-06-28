@@ -1,4 +1,4 @@
-module github.com/swaggo/echo-swagger
+module github.com/digitalysin/echo-swagger
 
 require (
 	github.com/gin-contrib/sse v0.1.0 // indirect
